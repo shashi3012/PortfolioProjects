@@ -8,7 +8,7 @@ kind of thing, like actors, genres, user ratings and more. And now, anyone with 
 movie industry, and get answers.
 
 # DATA :
-The data I used was found on Kaggle. This dataset focuses on movie revenue over the last decade(s). There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
+The data I used was found on [https://www.kaggle.com/danielgrijalvas/movies]("Kaggle"). This dataset focuses on movie revenue over the last decade(s). There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
 budget: the budget of a movie. Some movies don't have this, so it appears as 0
 company: the production company
